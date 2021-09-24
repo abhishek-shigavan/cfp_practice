@@ -1,0 +1,22 @@
+[
+  {
+    "fname": "Abhishek",
+    "lname": "Shigavan",
+    "state": "Maharashtra"
+  },
+  {
+    "fname": "Pratik",
+    "lname": "Choudhary",
+    "state": "Maharashtra"
+  },
+  {
+    "fname": "Abc",
+    "lname": "Xyz",
+    "state": "Punjab"
+  },
+  {
+    "fname": "Peter",
+    "lname": "Parkar",
+    "state": "U.P"
+  }
+]
